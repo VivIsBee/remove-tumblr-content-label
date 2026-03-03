@@ -1,0 +1,3 @@
+# Remove the tumblr content label
+
+tumblr's content label system sucks. if it has one (which far too many posts do), you often just cannot access it. that's why I made this basic userscript (heavily commented if you don't trust it) to allow accessing them easily. to install it, install [tampermonkey](https://www.tampermonkey.net) (or another userscript manager but tampermonkey works well) and then click [this link](https://github.com/VivIsBee/remove-tumblr-content-label/raw/refs/heads/main/remove-content-label.user.js) and it'll pop up with a menu for you to install it. yay! if it doesn't work in some scenario, make an issue in the github here and i'll try to fix it.
